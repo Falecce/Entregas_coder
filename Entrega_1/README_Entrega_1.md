@@ -28,4 +28,4 @@ AWS_REDSHIFT_SCHEMA=your-schema
 
 Y colocarlo en la carpeta `Entrega_1/docker_shared_folder/working_dir/`
 
-### Ya con todo esto podemos correr el script `Entrega1_FabioLecce.ipynb`, este script esta dentro de la carpeta "/docker_shared_folder/working_dir/"
+### Ya con todo esto podemos correr el script `Entrega1_FabioLecce.ipynb`, este script esta dentro de la carpeta `/docker_shared_folder/working_dir/`
